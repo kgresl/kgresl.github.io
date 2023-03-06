@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <style>
@@ -39,7 +39,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <style>
